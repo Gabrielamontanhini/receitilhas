@@ -1,6 +1,8 @@
 # Receitilhas
 
-O Receitilhas é um aplicativo de receitas criado utilizando React Native e Expo. Nele foram utilizados os seguintes recursos:
+O Receitilhas é um aplicativo de receitas criado utilizando React Native e Expo.
+Oferece uma UX e UI simples porem práticas e projetadas tanto para dispositivos Android e iOS.
+Nele foram utilizados os seguintes recursos:
 
 
 ## Recursos Principais
@@ -13,4 +15,7 @@ O Receitilhas é um aplicativo de receitas criado utilizando React Native e Expo
 - Compartilhamento: Os usuários podem compartilhar suas receitas favoritas  com amigos e familiares através de outros aplicativos instalados em seus dispositivos.
 - Explicação em vídeo: Ao visualizar uma receita, os usuários podem explorar seus detalhes, incluindo ingredientes, instruções e vídeo carregado em Webview, permitindo a visualização sem sair do aplicativo.
 
+## Vídeo Demonstrativo
 
+
+[![Vídeo de Demonstração]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://www.youtube.com/watch?v=qDSMtv2Vbk4)https://www.youtube.com/watch?v=qDSMtv2Vbk4)
